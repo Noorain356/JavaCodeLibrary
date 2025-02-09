@@ -1,3 +1,4 @@
+package MyCodes;
 public class WrapperClass {
     public static void main(String[] args) {
         int num = 7;

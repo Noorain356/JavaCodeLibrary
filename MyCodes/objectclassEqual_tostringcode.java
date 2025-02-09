@@ -1,6 +1,8 @@
+package MyCodes;
 class Laptop{
     String model;
     int price;
+
 
     public String toString(){
         return model + " : " + price;
